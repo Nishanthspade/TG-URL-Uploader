@@ -34,7 +34,7 @@ URL | filename | username | password"""
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Plan name: Free Cloned User
+Plan name: Free User 🙄
 Expires on: 31/12/2020"""
     HELP_USER = """Hai am URL Uploader bot🤗..
     
